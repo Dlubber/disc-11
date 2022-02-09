@@ -1,9 +1,7 @@
 {
-    "name": "Disc 11",
-    "description": "A dedicated open-source Discord bot for Zhycorp based on our Discord bot template with more features. Easy to use, and with no coding required.",
-    "logo": "https://raw.githubusercontent.com/zhycorp/disc-11/main/.github/images/disc-11.png",
+    
     "env": {
-        "DISCORD_TOKEN": {
+        "DISCORD_TOKEN": "ODg0Njg5NTU5MTY4OTAxMTIw.YTcJWw.lH4ywph5rsIayLKg8dJuCXjzJ6I" {
             "description": "What is your Discord bot's token? | Example: NTE5NjQ2MjIxNTU2Nzc2OTcw.XAcEQQ.0gjhNbGeWBsKP6FVuIyZWlG2cMd",
             "required": true
         },
