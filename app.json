@@ -1,8 +1,8 @@
 {
     
     "env": {
-        "DISCORD_TOKEN": "ODg0Njg5NTU5MTY4OTAxMTIw.YTcJWw.lH4ywph5rsIayLKg8dJuCXjzJ6I" {
-            "description": "What is your Discord bot's token? | Example: NTE5NjQ2MjIxNTU2Nzc2OTcw.XAcEQQ.0gjhNbGeWBsKP6FVuIyZWlG2cMd",
+        "DISCORD_TOKEN": "ODg0Njg5NTU5MTY4OTAxMTIw.YTcJWw.DW_eMy4if3Fq0SZec-6Eao3nTpw" {
+            "description": "What is your Discord bot's token? | Example: ",
             "required": true
         },
         "MAIN_PREFIX": {
